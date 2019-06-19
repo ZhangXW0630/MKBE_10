@@ -82,7 +82,7 @@ hyperparams = {
     "init_scale": 24,
     "down_scale": 120,
     "cnn_scale": 24,
-    "max_epoch": 360000,
+    "max_epoch": 36000,
     "batch_size": 256,
     "bias": True,
     "debug": False,
